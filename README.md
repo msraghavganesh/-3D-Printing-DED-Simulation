@@ -1,6 +1,6 @@
 # Additive Manufacturing SIMULATION
 
-The project was mentored by ***M S RAGHAV GANESH*** under the guidance of Mechanical Association of ISTE Club, NITK Chapter.
+The project was mentored by ***M S RAGHAV GANESH*** under the guidance of Mechanical Association of ISTE, NITK Chapter.
 > Heat Source Investigation Team
 ```
 Karan Dinakaran
