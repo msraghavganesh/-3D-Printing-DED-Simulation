@@ -1,1 +1,1 @@
-# -3D-Printing-DED-Simulation
+# 3D-Printing-DED-Simulation
